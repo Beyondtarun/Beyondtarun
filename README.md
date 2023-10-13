@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyondtarun&label=Profile%20views&color=0e75b6&style=flat" alt="beyondtarun" /> </p>
 
 <p align="left"> <a href="https://twitter.com/beyondtarun" target="blank"><img src="https://img.shields.io/twitter/follow/beyondtarun?logo=twitter&style=for-the-badge" alt="beyondtarun" /></a> </p>
