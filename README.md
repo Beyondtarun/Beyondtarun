@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 <h3 align="center">A Software Engineer from India</h3>
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=400px align="right" alt="coding"> </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyondtarun&label=Profile%20views&color=0e75b6&style=flat" alt="beyondtarun" /> </p>
 
