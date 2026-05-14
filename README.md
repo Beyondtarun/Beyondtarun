@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📝 I regularly write articles on [https://beyondtarun.com](https://wordpress.com/home/beyondtarun.wordpress.com)
+- 📝 I regularly write articles on [https://beyondtarun.com](https://beyondtarun.com)
 
 - 💬 Ask me about **MERN, JAVA**
 
