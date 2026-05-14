@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/beyondtarun" target="blank"><img src="https://img.shields.io/twitter/follow/beyondtarun?logo=twitter&style=for-the-badge" alt="beyondtarun" /></a> </p>
 
-- 🔭 I’m currently working on [THECOAD](https://thecoad.vercel.app/)
+- 🔭 I’m currently working as Data Engineer in TCS
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📝 I regularly write articles on [https://wordpress.com/home/beyondtarun.wordpress.com](https://wordpress.com/home/beyondtarun.wordpress.com)
+- 📝 I regularly write articles on [https://beyondtarun.com](https://wordpress.com/home/beyondtarun.wordpress.com)
 
 - 💬 Ask me about **MERN, JAVA**
 
